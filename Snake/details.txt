@@ -1,0 +1,1 @@
+A fun game where you try to navigate your snake to find food to grow it while also not eating yourself.
