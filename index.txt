@@ -1,3 +1,3 @@
-Snake
-Terminal
-Tetris
+Snake:https://raw.githubusercontent.com/asherevan/microOS-apps/snake/
+Terminal:https://raw.githubusercontent.com/asherevan/microOS-apps/terminal/
+Tetris:https://raw.githubusercontent.com/asherevan/microOS-apps/tetris/
