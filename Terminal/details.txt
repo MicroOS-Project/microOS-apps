@@ -1,0 +1,1 @@
+A program for running commands on your system. There is no restrictions on what commands you can run, so you could completly ruin your system.
