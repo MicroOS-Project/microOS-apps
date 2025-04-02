@@ -1,3 +1,3 @@
 Test apps for [MicroOS](https://github.com/asherevan/microOS)
 
-We're currently working on some cross compatability issues between devices, so some of these apps may not work correctly.
+These apps are not currently functional until we are done switching between graphics drivers.
